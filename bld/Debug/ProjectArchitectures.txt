@@ -1,2 +1,0 @@
-C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\MicrosoftTranslatorApi.jsproj;neutral
-C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\TranslatorRT\TranslatorRT.csproj;neutral
