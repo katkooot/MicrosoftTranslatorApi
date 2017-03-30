@@ -1,0 +1,12 @@
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\bin\Release\MicrosoftTranslatorRT.winmd
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\bin\Release\MicrosoftTranslatorRT.pdb
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\bin\Release\MicrosoftTranslatorRT.pri
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\MicrosoftTranslatorRT.winmd
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\MicrosoftTranslatorRT.pdb
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\MicrosoftTranslatorRT.winmdobj
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\MicrosoftTranslatorRT.compile.pdb
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\priconfig.xml
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\layout.resfiles
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\resources.resfiles
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\pri.resfiles
+C:\Katkoot\Work\KetAPP\Main\Win8App\TranslatorRT\obj\Release\LanguageQualifiers.txt

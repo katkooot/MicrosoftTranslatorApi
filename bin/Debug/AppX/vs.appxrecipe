@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MAHMED</Machine>
+    <WindowsUser>Mohamed.Ahmed</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>68EA145FD5C54ED37944AE66D97E1AC90A063952B6F11B96C51D9B3593E01B46</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a4a0dc94-969e-4ba2-ba52-c270f47611a6_1.0.0.0_neutral__gxtvr5d4bjfyy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a4a0dc94-969e-4ba2-ba52-c270f47611a6_gxtvr5d4bjfyy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a4a0dc94-969e-4ba2-ba52-c270f47611a6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohamed.Ahmed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-21T09:02:24.588</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\TranslatorRT\bin\Debug\MicrosoftTranslatorRT.winmd">
+      <PackagePath>MicrosoftTranslatorRT.winmd</PackagePath>
+      <Modified>2014-03-21T09:02:23.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\TranslatorRT\bin\Debug\MicrosoftTranslatorRT.pdb">
+      <PackagePath>MicrosoftTranslatorRT.pdb</PackagePath>
+      <Modified>2014-03-21T09:02:23.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-08-24T16:46:56.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T23:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T23:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T23:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-27T23:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-08-23T08:52:09.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\js\jquery-1.7.2.min.js">
+      <PackagePath>js\jquery-1.7.2.min.js</PackagePath>
+      <Modified>2013-05-09T13:52:34.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-01-27T23:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-21T09:02:24.345</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20789</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20789</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

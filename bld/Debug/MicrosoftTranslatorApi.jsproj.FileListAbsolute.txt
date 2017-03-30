@@ -1,0 +1,34 @@
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bin\Debug\resources.pri
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bin\Debug\AppxManifest.xml
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorApi.build.appxrecipe
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorRT.winmd
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorRT.pdb
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorRT.pri
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\MicrosoftTranslatorApi.jsprojResolveAssemblyReference.cache
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\priconfig.xml.intermediate
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\layout.resfiles.intermediate
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\resources.resfiles.intermediate
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\pri.resfiles.intermediate
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\priconfig.xml
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\layout.resfiles
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\resources.resfiles
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\pri.resfiles
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\LanguageQualifiers.txt
+c:\users\mohamed.ahmed\documents\visual studio 2012\Projects\MicrosoftTranslatorApi\bld\Debug\ProjectArchitectures.txt
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\resources.pri
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\AppxManifest.xml
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorApi.build.appxrecipe
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorRT.winmd
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorRT.pdb
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bin\Debug\MicrosoftTranslatorRT.pri
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\MicrosoftTranslatorApi.jsprojResolveAssemblyReference.cache
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\priconfig.xml.intermediate
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\layout.resfiles.intermediate
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\resources.resfiles.intermediate
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\pri.resfiles.intermediate
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\priconfig.xml
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\layout.resfiles
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\resources.resfiles
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\pri.resfiles
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\LanguageQualifiers.txt
+C:\Users\mohamed.ahmed\Desktop\MicrosoftTranslatorApi\bld\Debug\ProjectArchitectures.txt
